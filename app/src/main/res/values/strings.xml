@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Comedy Sportz</string>
+
+    <string-array name="roundsList">
+        <item>Opening</item>
+        <item>Choice</item>
+        <item>Ref\'s Choice</item>
+        <item>Catch Up</item>
+        <item>Halftime</item>
+        <item>Head to Head</item>
+        <item>Challenge</item>
+        <item>Last Chance</item>
+    </string-array>
+</resources>
